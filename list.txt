@@ -1,4 +1,11 @@
+FRUIT AND VEGETABLES
 Bananas
 Oranges
 Strawberries
 Apples
+
+DAIRY
+Milk
+Egg
+Yogurt
+Butter
