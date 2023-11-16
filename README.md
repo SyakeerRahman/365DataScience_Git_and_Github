@@ -88,4 +88,19 @@ git merge dairy (combine list in dairy to master list)
 ## GitHub
 
 • GitHub
+
+``
+git remote add origin "url"
+git remote -v
+git push origin master
+``
 • GitClone 
+
+``
+pwd (get to root)
+cd .. (get back)
+mkdir newfile (make new directory)
+cd newfile (get inside directory_)
+git fetch
+git pull
+``
